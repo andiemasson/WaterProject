@@ -65,3 +65,5 @@
 /Users/andieclegg/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.pdb
 /Users/andieclegg/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.genruntimeconfig.cache
 /Users/andieclegg/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/ref/WaterProject.API.dll
+/Users/andieclegg/Desktop/WaterProject/backend/WaterProject.API/obj/Debug/net8.0/WaterProject.API.sourcelink.json
+/Users/andieclegg/Desktop/WaterProject/backend/WaterProject.API/bin/Debug/net8.0/WaterProject.sqlite
