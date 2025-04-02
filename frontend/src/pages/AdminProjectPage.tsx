@@ -1,7 +1,6 @@
 import { useEffect, useState } from "react";
 import { Project } from '../types/Project'
 import { FetchProjects, deleteProject } from "../api/ProjectsAPI";
-import ProjectList from "../components/ProjectList";
 import Pagination from '../components/Pagination'
 import NewProjectForm from "../components/NewProjectForm";
 import EditProjectForm from "../components/EditProjectForm";
